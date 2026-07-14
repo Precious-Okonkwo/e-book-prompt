@@ -115,3 +115,6 @@ use this image as the author image, also remove the images on the cover let the 
 
 Prompt 21:
 I don't have an ISBN so it should be blank
+
+Prompt 23:
+I need a description for the ebook am publishing on amazon
