@@ -1,0 +1,2 @@
+Prompt 22:
+Hello claude, I am learning to write and publish an e-book on amazon. I have the cover page, back page in colour and all the chapters with illustration images on each chapter I want you to add pages to the entire document from start to finish, except the cover pages. And let the page number be written in the middle of the status bar of each page. Render the resolution of each page to be the same quality and the same aspect ratio as what Amazon requires. Then create one single downloadable document out of this.
